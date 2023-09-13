@@ -32,8 +32,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidade Federal De São Carlos (UFSCAR)
+    url: https://www.ufscar.br/
 education:
   courses:
     - course: PhD in Artificial Intelligence
