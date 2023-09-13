@@ -3,7 +3,7 @@ title: Lucy Oliveira
 role: Professora de Ciência Política no Departamento de Ciências Sociais (DCSo)
   e do Programa de Pós-Graduação em Ciência Política (PPGPol) da Universidade
   Federal de São Carlos (UFSCar)
-avatar_filename: lucy.png
+avatar_filename: lucy-oliveira-red.jpg
 bio: ""
 interests:
   - Artificial Intelligence
