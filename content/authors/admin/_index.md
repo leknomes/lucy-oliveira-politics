@@ -1,36 +1,39 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Lucy Oliveira
+role: Professora de Ciência Política no Departamento de Ciências Sociais (DCSo)
+  e do Programa de Pós-Graduação em Ciência Política (PPGPol) da Universidade
+  Federal de São Carlos (UFSCar)
+avatar_filename: lucy-oliveira.jpg
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-# Education to show in About widget
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,43 +45,12 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
 highlight_name: true
+first_name: Alice
+email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Coordeno a área temática de "Comunicação Política e Opinião Pública" da Associação Brasileira de Ciência Política (ABCP) e sou membro do conselho fiscal da Associação Brasileira de Pesquisadores em Comunicação e Política (COMPOLÍTICA). Sou líder do Núcleo de Estudos Integrados em Democracia, Comunicação e Sociedade (DECOS) e coordena o Laboratório de Dados e Técnicas em Ciência Política (Lab.Pol/PPGPol). Foi secretária-executiva da ABCP/Sudeste (2021-2023) e vice coordenadora do GT "Mídia, Gênero e Raça" da Compolítica também no mesmo período. Fez estágio de pós-doutorado no Centro Brasileiro de Análise e Planejamento (FAPESP/CEBRAP). Doutora em Ciência Política (PPGPol/UFSCar), com mestrado em Sociologia (PPGS/UFAL) e graduação em Comunicação Social/Jornalismo (COS/UFAL). Consultora em métodos computacionais aplicados às Ciências Sociais e Análise de Conteúdo/Texto. Realiza pesquisas na área de Comunicação e Política, com foco em Democracia, Campanhas Eleitorais, Rhetorical Presidency, Jornalismo Político, Agenda-Setting e a relação entre mídia, gênero e raça. Mãe de Maria Luiza e João Vicente, esteve em licença maternidade nos anos de 2018 e 2021.
